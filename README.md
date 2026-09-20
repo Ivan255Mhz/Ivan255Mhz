@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Ivan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=.NET%20Developer&descAlignY=58&descSize=22" width="100%" />
 
-### Привет, меня зовут Иван
+### Привет, меня зовут Иван и это мой GitHub
 
 </div>
 
